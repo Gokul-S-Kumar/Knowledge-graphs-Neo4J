@@ -1,0 +1,10 @@
+,Algorithm,ROC AUC mean,ROC AUC std
+0,catboost,82.57,5.74
+1,lightgbm,81.78,6.23
+2,xgboost,81.5,5.67
+3,logistic_regression,81.17,6.8
+4,random_forest,80.94,5.51
+5,gaussian_nb,76.72,6.95
+6,knn,59.23,5.91
+7,decision_tree_classifier,58.04,4.09
+8,svm,51.03,6.18
