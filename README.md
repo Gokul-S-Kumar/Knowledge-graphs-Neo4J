@@ -1,4 +1,4 @@
-Knowledge_graphs_Neo4j
+Knowledge Graphs using Neo4j
 ==============================
 
 Development of Knowledge graphs using Neo4j Graph data platform & Cypher Query language to find the relation among employees in the HR Attrition rate dataset.
